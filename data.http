@@ -1,0 +1,1 @@
+GET https://hn.algolia.com/api/v1/search?query=redux HTTP/1.1
